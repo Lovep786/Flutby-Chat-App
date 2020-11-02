@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "196027044012",
+    "firebase_url": "https://chatboot-a9f9b.firebaseio.com",
+    "project_id": "chatboot-a9f9b",
+    "storage_bucket": "chatboot-a9f9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196027044012:android:e9ea26cd5c9950ee610f09",
+        "android_client_info": {
+          "package_name": "com.example.flutby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196027044012-l7nkqs3mt15bihu26513ghn8rgjo7r30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqkgcasiZGt-cFzGlbE1bAX_nDjSC2Lzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196027044012-l7nkqs3mt15bihu26513ghn8rgjo7r30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
